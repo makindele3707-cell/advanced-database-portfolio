@@ -19,14 +19,14 @@ CareBridge Specialist Clinic is a fictional outpatient clinic in Abuja with five
 | 1. Database Design and Modelling     | [portfolio-1-database-design](portfolio-1-database-design/)                   | ✅ Complete    |
 | 2. Query Processing and Optimisation | [portfolio-2-query-optimisation](portfolio-2-query-optimisation/)             | ✅ Complete    |
 | 3. Transactions and Concurrency      | [portfolio-3-transactions-concurrency](portfolio-3-transactions-concurrency/) | ✅ Complete    |
-| 4. NoSQL and Advanced Data Models    | [portfolio-4-nosql](portfolio-4-nosql/)                                       | ⏳ Not started |
+| 4. NoSQL and Advanced Data Models    | [portfolio-4-nosql](portfolio-4-nosql/)                                       | ✅ Complete    |
 | 5. Distributed and Cloud Databases   | [portfolio-5-distributed-cloud](portfolio-5-distributed-cloud/)               | ⏳ Not started |
 
 ## Tools
 
-- PostgreSQL 16 (relational database)
+- PostgreSQL (relational database & JSONB document store)
+- `psql` (PostgreSQL interactive CLI for running scripts, transactions, and `EXPLAIN ANALYZE`)
 - Mermaid (ER diagrams)
-- <!-- Add tools as you use them, e.g. MongoDB, Docker -->
 
 ## AI use declaration
 

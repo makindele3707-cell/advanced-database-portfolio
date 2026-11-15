@@ -1,0 +1,56 @@
+[
+  {
+    "patient_hospital_no": "CBC-2026-00001",
+    "department_name": "General Medicine",
+    "visit_type": "Outpatient Acute",
+    "presenting_complaints": ["high fever", "frontal headache", "arthralgia"],
+    "vitals_series": [
+      { "time": "09:05", "temp_c": 38.9, "bp": "120/80", "pulse_bpm": 98 },
+      { "time": "10:30", "temp_c": 37.6, "bp": "118/78", "pulse_bpm": 84 }
+    ],
+    "lab_panel": {
+      "malaria_rdt": { "parasite": "P. falciparum", "result": "Positive" },
+      "fbc_parameters": {
+        "hb_g_dl": 11.8,
+        "wbc_10e9_l": 6.4,
+        "platelets_10e9_l": 142
+      }
+    },
+    "clinical_tags": ["malaria", "act-therapy", "follow-up-required"]
+  },
+  {
+    "patient_hospital_no": "CBC-2026-00002",
+    "department_name": "Obstetrics & Gynaecology",
+    "visit_type": "Antenatal Care (ANC)",
+    "obstetric_history": {
+      "gravida": 2,
+      "para": 1,
+      "gestational_age_weeks": 24,
+      "lmp_date": "2026-04-19",
+      "edd_date": "2027-01-24"
+    },
+    "fetal_assessment": {
+      "fundal_height_cm": 24,
+      "fetal_heart_rate_bpm": 146,
+      "presentation": "Cephalic",
+      "fetal_movement": "Active"
+    },
+    "clinical_tags": ["antenatal", "second-trimester", "routine-anc"]
+  },
+  {
+    "patient_hospital_no": "CBC-2026-00005",
+    "department_name": "Cardiology",
+    "visit_type": "Specialist Cardiac Review",
+    "cardiac_risk_factors": ["hypertension", "age > 60", "exertional dyspnoea"],
+    "ecg_telemetry": {
+      "device_id": "SCHILLER-AT102-ABJ",
+      "rhythm": "Sinus rhythm",
+      "ventricular_rate_bpm": 88,
+      "intervals_ms": { "pr": 164, "qrs": 92, "qt_corrected": 418 },
+      "st_segment_findings": ["ST depression 1.5mm in leads V4-V6"],
+      "critical_alert": true
+    },
+    "referral": { "target_unit": "Cardiac Stress Lab", "priority": "Urgent" },
+    "clinical_tags": ["angina", "abnormal-ecg", "cardiology-priority"]
+  }
+]
