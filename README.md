@@ -14,13 +14,13 @@ CareBridge Specialist Clinic is a fictional outpatient clinic in Abuja with five
 
 ## Portfolio contents
 
-| Portfolio | Folder | Status |
-|---|---|---|
-| 1. Database Design and Modelling | [portfolio-1-database-design](portfolio-1-database-design/) | ✅ Complete |
-| 2. Query Processing and Optimisation | [portfolio-2-query-optimisation](portfolio-2-query-optimisation/) | ✅ Complete |
-| 3. Transactions and Concurrency | [portfolio-3-transactions-concurrency](portfolio-3-transactions-concurrency/) | ⏳ Not started |
-| 4. NoSQL and Advanced Data Models | [portfolio-4-nosql](portfolio-4-nosql/) | ⏳ Not started |
-| 5. Distributed and Cloud Databases | [portfolio-5-distributed-cloud](portfolio-5-distributed-cloud/) | ⏳ Not started |
+| Portfolio                            | Folder                                                                        | Status         |
+| ------------------------------------ | ----------------------------------------------------------------------------- | -------------- |
+| 1. Database Design and Modelling     | [portfolio-1-database-design](portfolio-1-database-design/)                   | ✅ Complete    |
+| 2. Query Processing and Optimisation | [portfolio-2-query-optimisation](portfolio-2-query-optimisation/)             | ✅ Complete    |
+| 3. Transactions and Concurrency      | [portfolio-3-transactions-concurrency](portfolio-3-transactions-concurrency/) | ✅ Complete    |
+| 4. NoSQL and Advanced Data Models    | [portfolio-4-nosql](portfolio-4-nosql/)                                       | ⏳ Not started |
+| 5. Distributed and Cloud Databases   | [portfolio-5-distributed-cloud](portfolio-5-distributed-cloud/)               | ⏳ Not started |
 
 ## Tools
 
